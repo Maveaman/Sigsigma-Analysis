@@ -1,1 +1,1 @@
-# Sigsigma-Analysis
+# Sixsigma-Analysis
